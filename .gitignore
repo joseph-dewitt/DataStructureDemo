@@ -1,1 +1,3 @@
-CMakeLists.txt
+$git status
+/*.txt
+.idea
